@@ -9,8 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "dotenv": "^16.4.5",
+    "firebase": "^10.8.0",
+    "lodash.debounce": "^4.0.8",
+    "lodash.kebabcase": "^4.1.1",
+    "next": "14.1.0",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.1.0"
+    "react-firebase-hooks": "^5.1.1",
+    "react-hook-form": "^7.50.1",
+    "react-hot-toast": "^2.4.1",
+    "react-markdown": "^9.0.1"
   }
 }
